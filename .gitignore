@@ -1,5 +1,4 @@
 .ropeproject/
 .vagrant/
 data.db
-*.pyo
-*.pyc
+*.py[co]
