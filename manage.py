@@ -16,7 +16,7 @@ class BaseModel(Model):
 
 
 class User(BaseModel):
-    username = CharField
+    username = CharField()
 
 
 @app.before_request
